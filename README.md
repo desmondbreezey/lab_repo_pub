@@ -1,2 +1,2 @@
 # lab_repo_pub
-qqq
+I am editing the README file. Adding some more details about the project description.
